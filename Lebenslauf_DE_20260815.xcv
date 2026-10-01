@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cv>
+<title>Lebenslauf</title>
+<contacttitles>
+    <title></title>
+    <name>Name</name>
+    <address>Adresse</address>
+</contacttitles>
+<contact>
+    <name>Witold Kaminski</name>
+</contact>
+<profile>
+    <name>Profil</name>
+    <capability>
+        <name>Principal Software Engineer / Software Architect</name>
+        <item>
+            Principal Software Engineer und Software Architect mit über 20 Jahren
+            Erfahrung in Embedded- und Systemsoftware, mit Schwerpunkt auf C/C++
+            und Linux-basierten Systemen. Umfangreiche Erfahrung in der Architektur
+            und Entwicklung komplexer Embedded-Systeme sowie in der technischen
+            Verantwortung für Softwareplattformen und zentrale Systementscheidungen.
+        </item>
+        <item>
+            Erfahrung in der technischen Führung und Beratung von
+            Softwareentwicklungsteams sowie im Aufbau von Build-, Integrations-
+            und Entwicklungsinfrastruktur ohne disziplinarische
+            Personalverantwortung.
+        </item>
+    </capability>
+</profile>
+<capabilitygroup>
+    <name>Kernkompetenzen</name>
+    <capability>
+        <name>Systems und Embedded Software</name>
+        <item>C/C++ und modernes C++</item>
+        <item>Embedded Linux</item>
+        <item>Linux Kernel und Kernelmodule</item>
+        <item>Yocto und BitBake</item>
+        <item>U-Boot und Secure Boot</item>
+        <item>Echtzeitsysteme unter Linux</item>
+    </capability>
+    <capability>
+        <name>Softwarearchitektur und Plattformen</name>
+        <item>Systemarchitektur und Softwaredesign</item>
+        <item>Modulare Plattformarchitekturen und Plattformkomponenten</item>
+        <item>Systemintegration</item>
+        <item>Technische Systementscheidungen</item>
+        <item>Technische Beratung und Code Reviews</item>
+    </capability>
+    <capability>
+        <name>Build, CI/CD und Entwicklungsinfrastruktur</name>
+        <item>Git / GitLab / CI/CD</item>
+        <item>GCC und Cross-Compilation</item>
+        <item>Buildsysteme und Builddefinitionen</item>
+        <item>crosstool-ng</item>
+        <item>Build- und Entwicklungsautomatisierung</item>
+    </capability>
+    <capability>
+        <name>Weitere Programmiersprachen und Tools</name>
+        <item>Python - gute praktische Kenntnisse</item>
+        <item>Rust - mittlere Kenntnisse, aktiver Kompetenzaufbau</item>
+        <item>Java - mittlere Kenntnisse</item>
+        <item>UML</item>
+        <item>GDB und Core Dumps</item>
+        <item>Valgrind</item>
+    </capability>
+</capabilitygroup>
+<capabilitygroup>
+    <name>Eigene Projekte</name>
+    <capability>
+        <name>CIDE - Modular Software Build Environment</name>
+        <item>
+            Entwicklung einer modularen BitBake-basierten
+            Buildumgebung für Software-Stacks
+        </item>
+        <item>
+            Cross-Compilation und kontrollierte Abhängigkeiten
+            für verschiedene Zielsysteme
+        </item>
+        <item>https://github.com/witold-k/cide</item>
+    </capability>
+    <capability>
+        <name>AI-assisted Software Engineering</name>
+        <item>
+            Entwicklung einer eigenen Agent-Infrastruktur in Rust mit
+            Agent-Loops und Tool-Integration
+        </item>
+        <item>https://github.com/witold-k/aiagents</item>
+    </capability>
+</capabilitygroup>
+<career>
+    <name>Beruflicher Werdegang</name>
+    <timeentry>
+        <from>06.2021</from>
+        <to>heute</to>
+        <title>
+            Entwicklungsingenieur / Principal Engineer bei Vites GmbH
+        </title>
+        <item>
+            Technische Verantwortung für Embedded-Linux-Plattform,
+            Softwarearchitektur und Build-Infrastruktur eines
+            6-köpfigen Entwicklungsteams
+        </item>
+        <item>
+            Entwicklung und technische Verantwortung für eine
+            Embedded-Linux-Plattform mit Linux Kernel, U-Boot und Yocto
+        </item>
+        <item>
+            Entwicklung zentraler Softwarekomponenten und Systemframeworks
+            in C++ sowie modularer Echtzeitsystemarchitekturen unter Linux
+        </item>
+        <item>
+            Umsetzung von Secure Boot und U-Boot Verified Boot
+        </item>
+        <item>
+            Aufbau und technische Verantwortung für GitLab CI/CD,
+            Build-, Integrations- und Releaseprozesse
+        </item>
+        <item>
+            Fachliche und technische Führung von Softwareentwicklern
+            sowie Verantwortung für technische Lösungsansätze und
+            Architekturentscheidungen
+        </item>
+        <item>
+            Entwicklung eines Python-Tools zur Unterstützung von
+            Software Reviews mit einem internen LLM
+        </item>
+    </timeentry>
+    <timeentry>
+        <from>05.2021</from>
+        <to>06.2021</to>
+        <title>Berufliche Auszeit</title>
+    </timeentry>
+    <timeentry>
+        <from>10.2005</from>
+        <to>05.2021</to>
+        <title>
+            Entwicklungsingenieur bei Harman Automotive Systems
+        </title>
+        <item>
+            Entwicklung von Embedded- und Systemsoftware in C/C++
+            auf Linux und QNX Neutrino
+        </item>
+        <item>
+            Softwarearchitektur und -design für komplexe Embedded-Systeme
+        </item>
+        <item>
+            Entwicklung und Review von Linux-Kernelmodulen
+        </item>
+        <item>
+            Entwicklung zentraler Softwarekomponenten für komplexe
+            Embedded-Systeme
+        </item>
+        <item>
+            Technische Abstimmung von Softwarekomponenten mit
+            Hardwareentwicklung und NVIDIA
+        </item>
+    </timeentry>
+    <timeentry>
+        <from>12.2002</from>
+        <to>10.2005</to>
+        <title>
+            Entwicklungsingenieur bei BMW / S&S Software und
+            System GmbH
+        </title>
+        <item>
+            Hard- und Softwareentwicklung für die BMW Aktivlenkung
+        </item>
+        <item>
+            Entwicklung sicherheitskritischer Software in C
+        </item>
+        <item>
+            Aufbau und Automatisierung des Software-Buildprozesses
+        </item>
+    </timeentry>
+    <timeentry>
+        <from>01.2000</from>
+        <to>06.2002</to>
+        <title>
+            Softwareentwickler bei Redcon / Primesecurity GmbH
+        </title>
+        <item>
+            Entwicklung von Datenbankanwendungen in Java/SQL
+        </item>
+    </timeentry>
+</career>
+<education>
+    <name>Studium und Weiterbildung</name>
+    <timeentry>
+        <from>1994</from>
+        <to>1999</to>
+        <title>Studium Elektrotechnik an der TU Darmstadt</title>
+        <degrade>Dipl.-Ing. Elektrotechnik</degrade>
+    </timeentry>
+    <timeentry>
+        <from>06.06.2011</from>
+        <to>07.06.2011</to>
+        <title>Weiterbildung: Unified Modeling Language (UML)</title>
+    </timeentry>
+    <timeentry>
+        <from>02.06.2010</from>
+        <to>17.12.2010</to>
+        <title>Weiterbildung: Englisch</title>
+    </timeentry>
+    <timeentry>
+        <from>18.04.2006</from>
+        <title>
+            Weiterbildung: Prozessschulung für Softwareentwickler
+        </title>
+    </timeentry>
+    <timeentry>
+        <from>1993</from>
+        <to>1994</to>
+        <title>Wehrdienst in Kastellaun, Fernmelder</title>
+    </timeentry>
+    <timeentry>
+        <from>1991</from>
+        <to>1993</to>
+        <title>
+            Berufliches Gymnasium Brühlwieschule in Hofheim am Taunus
+        </title>
+        <degrade>Abitur</degrade>
+    </timeentry>
+</education>
+</cv>
+
